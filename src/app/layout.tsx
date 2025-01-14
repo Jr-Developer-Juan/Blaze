@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Poppins } from "next/font/google";
 import "./globals.css";
@@ -13,11 +15,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const poppins = Poppins({
-  variable: "--font-poppins", 
-  subsets: ["latin"], 
-  weight: ["400", "600", "700"], 
-});
 
 export const metadata: Metadata = {
   title: "Blaze Store",
