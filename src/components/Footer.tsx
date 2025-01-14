@@ -39,7 +39,7 @@ const Footer = () => {
           </p>
           {/* Botón de contacto directo */}
           <a
-            href="https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20Oversize%20Blaze%208.1..."
+            href="https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20Oversize%20Blaze%208.1..."
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -67,7 +67,7 @@ const Footer = () => {
           >
             {/* WhatsApp */}
             <a
-              href="https://wa.me/3004577246"
+              href="https://wa.me/573004577246"
               target="_blank"
               rel="noopener noreferrer"
               className="text-custom-orange text-4xl hover:text-white transition duration-300"

@@ -10,7 +10,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado1.webp",
       imageAlt: "Print 1",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%201.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%201.1...",
     },
     {
       title: "Estampado Blaze 2.1",
@@ -18,7 +18,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado4.webp",
       imageAlt: "Print 2",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%202.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%202.1...",
     },
     {
       title: "Estampado Blaze 3.1",
@@ -26,7 +26,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado5.webp",
       imageAlt: "Print 3",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%203.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%203.1...",
     },
     {
       title: "Estampado Blaze 4.1",
@@ -34,7 +34,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado6.webp",
       imageAlt: "Print 4",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%204.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%204.1...",
     },
     {
       title: "Estampado Blaze 5.1",
@@ -42,7 +42,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado7.webp",
       imageAlt: "Print 5",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%205.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%205.1...",
     },
     {
       title: "Estampado Blaze 6.1",
@@ -50,7 +50,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado8.webp",
       imageAlt: "Print 6",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%206.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%206.1...",
     },
     {
       title: "Estampado Blaze 7.1",
@@ -58,7 +58,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado9.webp",
       imageAlt: "Print 7",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%207.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%207.1...",
     },
     {
       title: "Estampado Blaze 8.1",
@@ -66,7 +66,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado10.webp",
       imageAlt: "Print 8",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%208.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%208.1...",
     },
     {
       title: "Estampado Blaze 9.1",
@@ -74,7 +74,7 @@ const collectionPrints = () => {
       imageSrc: "/estampado11.webp",
       imageAlt: "Print 9",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%209.1...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%209.1...",
     },
   ];
 

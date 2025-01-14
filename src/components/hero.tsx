@@ -52,7 +52,7 @@ const Hero = () => {
             la <span className="text-custom-orange">diferencia.</span>
             <br />
             <a
-              href="https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%208.1..."
+              href="https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20el%20estampado%20Blaze%208.1..."
               target="_blank"
               rel="noopener noreferrer"
             >

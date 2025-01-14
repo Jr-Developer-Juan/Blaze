@@ -8,6 +8,10 @@ body {
   background-color: #000000;
   font-family: var(--font-poppins), Arial, Helvetica, sans-serif;
 }
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden;
+  }};
 
 @layer base {
   :root {

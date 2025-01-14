@@ -10,7 +10,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta1.webp",
       imageAlt: "Shirt 1",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -18,7 +18,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta2.webp",
       imageAlt: "Shirt 2",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -26,7 +26,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta3.webp",
       imageAlt: "Shirt 3",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -34,7 +34,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta5.webp",
       imageAlt: "Shirt 4",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -42,7 +42,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta6.webp",
       imageAlt: "Shirt 5",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -50,7 +50,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta7.webp",
       imageAlt: "Shirt 6",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -58,7 +58,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta8.webp",
       imageAlt: "Shirt 7",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -66,7 +66,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta9.jpg",
       imageAlt: "Shirt 8",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize Premium 1.1",
@@ -74,7 +74,7 @@ const collectionItems = () => {
       imageSrc: "/camiseta10.jpg",
       imageAlt: "Shirt 9",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize 1.1 Talla S",
@@ -82,7 +82,7 @@ const collectionItems = () => {
       imageSrc: "/tallaS.jpg",
       imageAlt: "Shirt 9",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize 1.1 Talla M",
@@ -90,7 +90,7 @@ const collectionItems = () => {
       imageSrc: "/tallaM.jpg",
       imageAlt: "Shirt 9",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize 1.1 Talla L",
@@ -98,7 +98,7 @@ const collectionItems = () => {
       imageSrc: "/tallaL.jpg",
       imageAlt: "Shirt 9",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
     {
       title: "Oversize 1.1 Talla XL",
@@ -106,7 +106,7 @@ const collectionItems = () => {
       imageSrc: "/tallaXL.jpg",
       imageAlt: "Shirt 9",
       buttonText: "$100.000 COP",
-      buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
+      buttonLink: "https://wa.me/573004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
     },
   ];
 
