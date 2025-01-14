@@ -109,7 +109,7 @@ const Header = () => {
               viewport={{ once: false }} // Animación se repite cada vez que entra en vista
               onClick={() => scrollToSection("about")}
             >
-              ¿Qué es Blaze?
+              ¿Blaze?
             </motion.li>
             <motion.li
               className="cursor-pointer"

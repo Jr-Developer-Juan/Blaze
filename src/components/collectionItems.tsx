@@ -103,7 +103,7 @@ const collectionItems = () => {
     {
       title: "Oversize 1.1 Talla XL",
       description: "Disponible en todas las tallas: XL ✅✨",
-      imageSrc: "/tallaXl.jpg",
+      imageSrc: "/tallaXL.jpg",
       imageAlt: "Shirt 9",
       buttonText: "$100.000 COP",
       buttonLink: "https://wa.me/3004577246?text=Hola!%20Estoy%20interesado%20en%20la%20colección%20Oversize...",
